@@ -2,6 +2,21 @@
 
 **将 Google Antigravity 转换为 OpenAI、Gemini 和 Claude API 兼容接口**
 
+> [!IMPORTANT]
+> **非官方归档声明 / Unofficial Archive Notice**
+>
+> 本仓库仅为原项目的非官方非商业备份，内容为原仓库删除前本人所拉取到的最后一个 commit。
+> * 本人与原作者无任何关联，对原仓库删除的原因及原作者的情况一概不知。
+> * 本仓库不提供任何技术支持、更新或维护，也不对代码内容的安全性、合法性及使用后果承担任何责任。
+> * 原项目版权归原作者（`agy2api contributors`）所有，本备份严格遵循原项目的 CNC-1.0 协议。如原作者希望删除此备份，请通过 GitHub 官方渠道联系。
+>
+> ---
+>
+> This repository is an unofficial, non-commercial archive containing the last commit fetched before the original repository was removed.
+> * I am not affiliated with the original author and have no knowledge of what happened to the author or the original repository.
+> * This archive is provided "as is" with no maintenance, support, or warranty. I assume no responsibility for the code or any consequences of using it.
+> * All rights belong to the original authors (`agy2api contributors`) under the original CNC-1.0 License. If the original author requests removal, please submit a request through GitHub's official channels.
+
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License: CNC-1.0](https://img.shields.io/badge/License-CNC--1.0-red.svg)](LICENSE)
 [![Docker](https://img.shields.io/badge/docker-available-blue.svg)](https://github.com/su-kaka/agy2api/pkgs/container/agy2api)
